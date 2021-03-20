@@ -7,10 +7,15 @@ others are my homework assignments.
 
 Please also find the following links to:
 
-Deployed version: https://backend-warriors-project-2.herokuapp.com/login
+Updated resume.
 
+Deployed version as per the App View button on the Portfolio page.
 
-GitHub repository: 
+GitHub repository: https://github.com/Herve8/Updated-portfolio
 
+Updated LinkedIn profile: https://www.linkedin.com/in/herve-malvina-098086a7/
 
-Screenshot of the deployed application
+## An image of my portfolio's home page
+
+![homepage](https://user-images.githubusercontent.com/16859648/111868051-b6dc3180-89b2-11eb-950d-16873e2c4029.png)
+
